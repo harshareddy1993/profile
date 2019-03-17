@@ -27,6 +27,11 @@ h1 {
   font-size: 6rem;
   line-height: 5.5rem; }
 
+.fishy {
+  max-width: 12rem;
+  max-height: 12rem;
+}
+
 h2 {
   font-size: 3 rem; }
 
