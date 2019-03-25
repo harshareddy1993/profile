@@ -147,6 +147,10 @@ a {
   z-index: 2;
 }
 
+.img-fluid {
+  max-width: 50% !important;
+}
+
 .how-it-works.row .col-2 {
   align-self: stretch;
 }
